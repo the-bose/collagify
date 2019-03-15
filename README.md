@@ -43,3 +43,4 @@ virtualenv venv
 * Supply the keyword of collage when prompted. Wait for your random collages (yes, plural, as in 3) to be generated and voila!
 * Output images are stored in the **/outputs/** folder with the keyword used to generate the collage in the file name.
 
+[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://www.youtube.com/watch?v=Gb2jGy76v0Y)
