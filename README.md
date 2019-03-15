@@ -17,6 +17,19 @@ Collagify is a collage creator built with Python and Pixabay API. Collagify rand
 ```sh
   git clone https://github.com/the-bose/collagify.git
 ```
+* Create virtual environment
+```sh
+virtualenv venv
+```
+* Activate virtual environment
+  * **Linux**
+  ```sh
+    source venv/bin/activate
+  ```
+  * **Windows**
+  ```sh
+    venv\Scripts\activate.bat
+  ```
 * Install dependencies
 ```sh
   pip install -r requirements.txt
